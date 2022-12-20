@@ -1,0 +1,15 @@
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\bin\Debug\net6.0\Lab1.1.exe
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\bin\Debug\net6.0\Lab1.1.deps.json
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\bin\Debug\net6.0\Lab1.1.runtimeconfig.json
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\bin\Debug\net6.0\Lab1.1.dll
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\bin\Debug\net6.0\Lab1.1.pdb
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\Lab1.1.csproj.AssemblyReference.cache
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\Lab1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\Lab1.1.AssemblyInfoInputs.cache
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\Lab1.1.AssemblyInfo.cs
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\Lab1.1.csproj.CoreCompileInputs.cache
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\Lab1.1.dll
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\refint\Lab1.1.dll
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\Lab1.1.pdb
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\Lab1.1.genruntimeconfig.cache
+C:\Users\akios\Desktop\Учеба\Волков\Сишарп\Лаба 1\Lab1.1\Lab1.1\obj\Debug\net6.0\ref\Lab1.1.dll
